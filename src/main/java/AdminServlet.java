@@ -14,6 +14,7 @@ public class AdminServlet extends HttpServlet {
 
 
         out.print("Welcome ADMIN");
+
         out.close();
     }
 }
