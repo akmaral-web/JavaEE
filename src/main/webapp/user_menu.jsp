@@ -47,21 +47,21 @@
             <td> Gift Cart
                 <img src="Giftcard.png" width="200" height="150"></td>
             <td> 5000 tg
-                <img src="price-tag.jpg" width="200" height="150"></td></td>
+                <img src="pricee1.jpg" width="200" height="150"></td></td>
         </tr>
 
         <tr>
             <td> Gift Cart
                 <img src="giftcard1.jpg" width="200" height="150"></td>
             <td> 5000 tg
-                <img src="price-tag1.jpg" width="200" height="150"></td></td>
+                <img src="pricee2.jpg" width="200" height="150"></td></td>
         </tr>
 
         <tr>
             <td> Gift Cart
-                <img src="gift-card-100.png" width="200" height="150"></td>
+                <img src="giftcard2.png" width="200" height="150"></td>
             <td> 5000 tg
-                <img src="price-tag2.jpg" width="200" height="150"></td></td>
+                <img src="pricee3.png" width="200" height="150"></td></td>
         </tr>
 
 

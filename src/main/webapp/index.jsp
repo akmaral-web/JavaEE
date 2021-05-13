@@ -102,6 +102,7 @@
     <a href="register.jsp">Sign up</a>
     <a href="test1.jsp">GiftCards</a>
     <a href="include.jsp">Popular</a>
+    <a href="studentregister.jsp">Reg</a>
     <div class="search-container">
         <form action="/implicit3.jsp">
             <input type="text" placeholder="Search.." name="search">
